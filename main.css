@@ -1,0 +1,30 @@
+.wrapper{
+    text-align: center;
+    background-color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.first{
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.margins{
+    color: blue;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+#second{
+    width: 400px;
+    height: 200px;
+    text-align: left;
+    border-width: 1px;
+    border:1px dotted black;
+    margin-left: 20px;
+}
